@@ -1,0 +1,27 @@
+{
+  "name": "@elite-oracle/hardhat-config",
+  "version": "1.4.0",
+  "license": "MIT",
+  "private": false,
+  "main": "./dist/index.js",
+  "types": "./src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "check-types": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Elite-Oracle/hardhat-config.git"
+  },
+  "author": "Nicholas St. Germain",
+  "bugs": {
+    "url": "https://github.com/Elite-Oracle/hardhat-config/issues"
+  },
+  "homepage": "https://github.com/Elite-Oracle/hardhat-config#readme",
+  "peerDependencies": {
+    "hardhat": ">=2.15.1"
+  },
+  "devDependencies": {
+    "typescript": ">=5.4.5"
+  }
+}
