@@ -1,4 +1,6 @@
 # @elite-oracle/hardhat-config
+[![NPM Version](https://img.shields.io/npm/v/%40elite-oracle%2Fhardhat-config?style=for-the-badge&color=cb3837)](https://www.npmjs.com/package/@elite-oracle/hardhat-config)
+
 A generic Hardhat config with predefined networks and etherscan API key logic
 
 ## RPC URLs
